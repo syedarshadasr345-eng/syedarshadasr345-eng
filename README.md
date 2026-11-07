@@ -1,8 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=C9B88C&height=230&section=header&text=Syed%20Arshad%20R.&fontSize=52&fontColor=1E1E1E&fontAlignY=38&animation=twinkling&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20Student%20%7C%20Seeking%20Internships&descSize=20&descAlignY=60&descColor=1E1E1E" alt="Syed Arshad R. header banner" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9B88C&center=true&vCenter=true&width=700&lines=Second-year+B.Tech+CSE+(AI+%26+ML)+student;Looking+for+internship+opportunities;Learning+Python%2C+FastAPI%2C+React+%26+PyTorch;Built+Veritas+AI+and+Smart+Reminder+App" alt="Typing animation" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-C9B88C?style=for-the-badge&labelColor=2E3440" alt="Open to internships" /> <img src="https://komarev.com/ghpvc/?username=syedarshadasr345-eng&label=Profile%20Views&color=C9B88C&style=for-the-badge&labelColor=2E3440" alt="Profile views" /> <img src="https://img.shields.io/github/followers/syedarshadasr345-eng?label=Followers&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="GitHub followers" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=C9B88C&center=true&vCenter=true&width=800&height=80&lines=Syed+Arshad+R." alt="Syed Arshad R." /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9B88C&center=true&vCenter=true&width=800&lines=Second-year+B.Tech+CSE+(AI+%26+ML)+student;Looking+for+internship+opportunities;Learning+Python%2C+FastAPI%2C+React+%26+PyTorch;Built+Veritas+AI+and+Smart+Reminder+App" alt="Typing animation" /> <br/> <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-C9B88C?style=for-the-badge&labelColor=2E3440" alt="Open to internships" /> <img src="https://komarev.com/ghpvc/?username=syedarshadasr345-eng&label=Profile%20Views&color=C9B88C&style=for-the-badge&labelColor=2E3440" alt="Profile views" /> <img src="https://img.shields.io/github/followers/syedarshadasr345-eng?label=Followers&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="GitHub followers" /> </div>
 🧑‍💻 Who I Am
 ts
 const syedArshad = {
@@ -43,7 +39,8 @@ const syedArshad = {
 };
 🚀 Featured Projects
 🔎 Veritas AI
-<a href="https://github.com/syedarshadasr345-eng/veritas-ai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=syedarshadasr345-eng&repo=veritas-ai&theme=nord&border_color=C9B88C&title_color=C9B88C&icon_color=C9B88C&text_color=D8DEE9&bg_color=2E3440" alt="veritas-ai repository card" /> </a>
+
+<a href="https://github.com/syedarshadasr345-eng/veritas-ai"><img src="https://opengraph.githubassets.com/1/syedarshadasr345-eng/veritas-ai" alt="veritas-ai repository card" width="600" /></a>
 
 An evidence intelligence platform that extracts factual claims from business documents, maps each claim to its source location, detects contradictions across documents, and routes uncertain items to human verification.
 
@@ -55,7 +52,8 @@ Local server & tests	Node.js
 🔗 Code
 
 🔔 Smart Reminder App
-<a href="https://github.com/syedarshadasr345-eng/smart-reminder-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=syedarshadasr345-eng&repo=smart-reminder-app&theme=nord&border_color=C9B88C&title_color=C9B88C&icon_color=C9B88C&text_color=D8DEE9&bg_color=2E3440" alt="smart-reminder-app repository card" /> </a>
+
+<a href="https://github.com/syedarshadasr345-eng/smart-reminder-app"><img src="https://opengraph.githubassets.com/1/syedarshadasr345-eng/smart-reminder-app" alt="smart-reminder-app repository card" width="600" /></a>
 
 A context-aware reminder app that parses natural-language reminders and triggers alerts by time, location (geofence), or calendar cues. It includes quiet hours, a morning brief, habit-based suggestions with explanations, and an interactive simulator for testing triggers.
 
@@ -69,7 +67,8 @@ Browser APIs	Web Speech API, Web Audio API
 🔗 Code
 
 🌐 Personal Portfolio
-<a href="https://github.com/syedarshadasr345-eng/Syed-Arshad-"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=syedarshadasr345-eng&repo=Syed-Arshad-&theme=nord&border_color=C9B88C&title_color=C9B88C&icon_color=C9B88C&text_color=D8DEE9&bg_color=2E3440" alt="Syed-Arshad- repository card" /> </a>
+
+<a href="https://github.com/syedarshadasr345-eng/Syed-Arshad-"><img src="https://opengraph.githubassets.com/1/syedarshadasr345-eng/Syed-Arshad-" alt="Syed-Arshad- repository card" width="600" /></a>
 
 My personal portfolio website, presenting my projects, skills, certifications, and resume in one place.
 
@@ -86,33 +85,29 @@ Technologies I work with or am learning.
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=py,ts&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts&theme=dark" alt="Python, TypeScript" />
 
 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React, Next.js" />
 
 Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend and APIs" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="FastAPI, Node.js, Express" />
 
 Data & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pandas,pytorch&theme=dark" alt="Data and ML" />
+<img src="https://skillicons.dev/icons?i=pandas,pytorch&theme=dark" alt="Pandas, PyTorch" />
 
-AI Integration & Databases
+Databases & AI Integration
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
-
-PostgreSQL · Pinecone · OpenAI APIs · LangChain
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Pinecone-C9B88C?style=for-the-badge&labelColor=2E3440" alt="Pinecone" /> <img src="https://img.shields.io/badge/OpenAI%20APIs-C9B88C?style=for-the-badge&labelColor=2E3440" alt="OpenAI APIs" /> <img src="https://img.shields.io/badge/LangChain-C9B88C?style=for-the-badge&labelColor=2E3440" alt="LangChain" />
 
 Dev Tools
 
-<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" alt="Dev tools" />
+<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" alt="Git, Docker" />
 📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedarshadasr345-eng&show_icons=true&theme=nord&border_color=C9B88C&title_color=C9B88C&icon_color=C9B88C&text_color=D8DEE9&bg_color=2E3440" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarshadasr345-eng&layout=compact&theme=nord&border_color=C9B88C&title_color=C9B88C&text_color=D8DEE9&bg_color=2E3440" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com?user=syedarshadasr345-eng&theme=nord&background=2E3440&border=C9B88C&ring=C9B88C&fire=C9B88C&currStreakLabel=C9B88C&sideLabels=D8DEE9&currStreakNum=D8DEE9&sideNums=D8DEE9&dates=D8DEE9" alt="GitHub streak stats" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=syedarshadasr345-eng&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" /> </div>
-📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedarshadasr345-eng&bg_color=2E3440&color=C9B88C&line=C9B88C&point=D8DEE9&area=true&area_color=C9B88C&hide_border=true" alt="Contribution activity graph" />
+<div align="center"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsyedarshadasr345-eng&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="Public repositories" /> <img src="https://img.shields.io/github/followers/syedarshadasr345-eng?label=Followers&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="Followers" /> <img src="https://img.shields.io/github/languages/top/syedarshadasr345-eng/veritas-ai?label=Veritas%20AI&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="Veritas AI top language" /> <img src="https://img.shields.io/github/languages/top/syedarshadasr345-eng/smart-reminder-app?label=Smart%20Reminder&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="Smart Reminder App top language" /> </div>
 🤝 Connect
 <div align="center">
 
@@ -120,4 +115,4 @@ Dev Tools
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9B88C&height=120&section=footer" alt="Footer banner" /> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9B88C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!" alt="Thanks for visiting" /> </div>
