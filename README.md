@@ -1,42 +1,15 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=C9B88C&center=true&vCenter=true&width=800&height=80&lines=Syed+Arshad+R." alt="Syed Arshad R." /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9B88C&center=true&vCenter=true&width=800&lines=Second-year+B.Tech+CSE+(AI+%26+ML)+student;Looking+for+internship+opportunities;Learning+Python%2C+FastAPI%2C+React+%26+PyTorch;Built+Veritas+AI+and+Smart+Reminder+App" alt="Typing animation" /> <br/> <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-C9B88C?style=for-the-badge&labelColor=2E3440" alt="Open to internships" /> <img src="https://komarev.com/ghpvc/?username=syedarshadasr345-eng&label=Profile%20Views&color=C9B88C&style=for-the-badge&labelColor=2E3440" alt="Profile views" /> <img src="https://img.shields.io/github/followers/syedarshadasr345-eng?label=Followers&style=for-the-badge&color=C9B88C&labelColor=2E3440" alt="GitHub followers" /> </div>
-🧑‍💻 Who I Am
-ts
-const syedArshad = {
-  title: "Second-Year B.Tech Student — Computer Science & Engineering (AI & ML)",
+<h2 align="center">🧑‍💻 About me</h2> <div align="center">
 
-  // Technologies I work with or am learning
-  stack: {
-    backendAndAPIs: ["Python", "FastAPI", "Node.js", "Express"],
-    dataAndML: ["Pandas", "PyTorch"],
-    databases: ["PostgreSQL", "Pinecone"],
-    aiIntegration: ["OpenAI APIs", "LangChain"],
-    frontend: ["TypeScript", "React", "Next.js"],
-    tools: ["Git", "Docker"],
-  },
+Hello there! I'm Syed Arshad R., a second-year B.Tech student in Computer Science and Engineering (AI & ML). I enjoy learning new technologies and building projects, and I'm open to internship opportunities.
 
-  launchedProjects: [
-    "Veritas AI",
-    "Smart Reminder App",
-    "Personal Portfolio Website",
-  ],
+🎓 Second-Year B.Tech Student — Computer Science & Engineering (AI & ML)<br/> 🚀 Projects: Veritas AI, Smart Reminder App, Personal Portfolio Website<br/> 🛠️ Working with or learning: Python, FastAPI, Node.js, Express, Pandas, PyTorch, PostgreSQL, Pinecone, OpenAI APIs, LangChain, TypeScript, React, Next.js, Git, Docker<br/> 💼 Status: Learning, building projects, and applying for internships<br/> 🔎 Open to: Internship opportunities
 
-  certifications: [
-    "Infosys Springboard certificate",
-    "Udemy — Java Full Stack Developer",
-    "NVIDIA — Building AI with Multimodal",
-    "Microsoft Student Ambassador Program (participation)",
-    "EduSkills — Prompt Engineering for AI (virtual internship)",
-    "Wadhwani — Self-Presentation (Advanced)",
-    "Wadhwani — Professionalism",
-    "EduSkills — Data Engineering (virtual internship)",
-    "Linux Unhatched",
-    "VIT Hackathon — NeuralDAO Edition 2 (participation)",
-    "Coursera — Computer Architecture Essentials with Arm",
-  ],
+📜 Certifications & participation
 
-  status: "Learning, building projects, and applying for internships",
-  openTo: ["Internship opportunities"],
-};
+Infosys Springboard certificate · Udemy — Java Full Stack Developer · NVIDIA — Building AI with Multimodal<br/> Microsoft Student Ambassador Program (participation) · EduSkills — Prompt Engineering for AI (virtual internship)<br/> Wadhwani — Self-Presentation (Advanced) · Wadhwani — Professionalism · EduSkills — Data Engineering (virtual internship)<br/> Linux Unhatched · VIT Hackathon — NeuralDAO Edition 2 (participation) · Coursera — Computer Architecture Essentials with Arm
+
+</div>
 🚀 Featured Projects
 🔎 Veritas AI
 
