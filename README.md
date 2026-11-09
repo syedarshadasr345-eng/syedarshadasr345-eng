@@ -26,7 +26,7 @@ Local server & tests	Node.js
 
 🔔 Smart Reminder App
 
-<a href="https://github.com/syedarshadasr345-eng/smart-reminder-app"><img src="https://img.shields.io/badge/smart--reminder--app-TypeScript%20%7C%20Vite%20%7C%20Vitest%20%7C%20Supabase-C9B88C?style=for-the-badge&labelColor=2E3440&logo=github&logoColor=white" alt="smart-reminder-app repository card" /></a>
+<a href="https://github.com/syedarshadasr345-eng/smart-reminder-app"><img src="https://opengraph.githubassets.com/1/syedarshadasr345-eng/smart-reminder-app" alt="smart-reminder-app repository card" width="600" /></a>
 
 A context-aware reminder app that parses natural-language reminders and triggers alerts by time, location (geofence), or calendar cues. It includes quiet hours, a morning brief, habit-based suggestions with explanations, and an interactive simulator for testing triggers.
 
@@ -41,7 +41,7 @@ Browser APIs	Web Speech API, Web Audio API
 
 🌐 Personal Portfolio
 
-<a href="https://github.com/syedarshadasr345-eng/Syed-Arshad-"><img src="https://img.shields.io/badge/portfolio-React%20%7C%20TypeScript%20%7C%20Tailwind%20CSS%20%7C%20Vite-C9B88C?style=for-the-badge&labelColor=2E3440&logo=github&logoColor=white" alt="Syed-Arshad- repository card" /></a>
+<a href="https://github.com/syedarshadasr345-eng/Syed-Arshad-"><img src="https://opengraph.githubassets.com/1/syedarshadasr345-eng/Syed-Arshad-" alt="Syed-Arshad- repository card" width="600" /></a>
 
 My personal portfolio website, presenting my projects, skills, certifications, and resume in one place.
 
